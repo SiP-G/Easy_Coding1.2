@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prog_array">
+    <item>С++</item>
+    <item>Python</item>
+    </string-array>
+    <string-array name="do_array">
+        <item>Просмотрен С++</item>
+        <item>Просмотрен Python</item>
+    </string-array>
+    <string-array name="game_array">
+        <item>Викторина</item>
+        <item>Задачи</item>
+    </string-array>
+</resources>
